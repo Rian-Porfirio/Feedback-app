@@ -1,4 +1,3 @@
-import {FaTimes} from "react-icons/fa"
 
 function Card({children}) {
   return (
