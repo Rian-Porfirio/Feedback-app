@@ -6,13 +6,14 @@ function Header({text, bgColor, textColor}) {
 
   const headerStyle = {
     backgroundColor: bgColor,
-    color: textColor
+    color: textColor,
+    textDecoration: "none"
   }
 
   return (
     <header style={headerStyle}>
         <div className="container">
-          <Link to="/feedbacks">
+          <Link to="/feedbacks" style={{ color: "white"}}>
             <h2>{text}</h2>
           </Link>
         </div>
@@ -30,7 +31,7 @@ Header.defaultProps = {
 Header.propTypes = {
   text: PropTypes.string,
   bgColor: PropTypes.string,
-  textColor: PropTypes.string
+  textColor: PropTypes.string,
 }
 
 export default Header
