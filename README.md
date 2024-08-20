@@ -62,6 +62,6 @@ Acesse o Projeto
 O projeto estará rodando em *http://localhost:3000* e o servidor JSON estará acessível em *http://localhost:5000/feedback*.
 
 # Tecnologias Utilizadas
-React: Biblioteca JavaScript para construção de interfaces.
-JSON Server: Simula uma API REST para manipulação dos dados.
-CSS: Estilização personalizada da interface.
+- React: Biblioteca JavaScript para construção de interfaces.
+- JSON Server: Simula uma API REST para manipulação dos dados.
+- CSS: Estilização personalizada da interface.
