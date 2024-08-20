@@ -6,7 +6,7 @@ Adicionar Feedback: O usuário pode escrever um feedback e atribuir uma nota ent
 ![image](https://github.com/user-attachments/assets/ce46c4e6-2fc3-4bfe-9343-6c1b95249a8a)
 ![image](https://github.com/user-attachments/assets/46e0b3da-72bc-4aa6-bfc1-b64b01bc8d1b)
 ![image](https://github.com/user-attachments/assets/b8987f17-3140-4a1c-8760-8f918dc1ac28)
-![image](https://github.com/user-attachments/assets/d1b06989-610c-4862-9be4-d32032b75253
+![image](https://github.com/user-attachments/assets/d1b06989-610c-4862-9be4-d32032b75253)
 
 ### Média das Notas: O sistema calcula automaticamente a média das avaliações fornecidas pelos usuários.
 ![image](https://github.com/user-attachments/assets/4a3e09c2-6480-4ab4-a2c6-f5ff519224ca)
