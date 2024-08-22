@@ -45,7 +45,6 @@ npm install
 O projeto utiliza o json-server para gerenciar o arquivo db.json. Para rodá-lo, use o comando abaixo:
 
 ```
-Copy code
 npx json-server --watch db.json --port 5000
 ```
 Nota: O projeto está configurado para usar a porta 5000. Caso essa porta já esteja em uso, você pode alterar o número da porta, mas lembre-se de ajustar o arquivo de contexto no projeto para usar a nova porta.
